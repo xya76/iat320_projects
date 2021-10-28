@@ -1,3 +1,6 @@
+//Refernces from:
+//https://learn.adafruit.com/capacitive-touch-with-conductive-fabric-and-flora/code
+//https://github.com/robsoncouto/arduino-songs/blob/master/silentnight/silentnight.ino
 #include <CapacitiveSensor.h>
 #include "Adafruit_FloraPixel.h"
 #include <FastLED.h>
